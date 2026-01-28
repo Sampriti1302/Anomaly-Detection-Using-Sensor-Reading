@@ -136,7 +136,7 @@ anomaly-detection-sensor/
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/anomaly-detection-sensor.git
+git clone https://github.com/Sampriti1302/Anomaly-Detection-Using-Sensor-Reading.git
 cd anomaly-detection-sensor
 
 # Install dependencies
@@ -204,7 +204,7 @@ If you use this project in your research or work, please cite:
   title={Sensor Anomaly Detection System with 79% F1 Score},
   author={Sampriti Mahato},
   year={2026},
-  url={https://github.com/yourusername/anomaly-detection-sensor}
+  url={https://github.com/Sampriti1302/Anomaly-Detection-Using-Sensor-Reading}
 }
 ```
 
