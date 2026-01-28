@@ -1,5 +1,3 @@
-# Anomaly-Detection-Using-Sensor-Reading
-AnaVerse 2.0 Data Science Hiring Challenge by Celebal Technologies
 # 🚨 Sensor Anomaly Detection System | 79% F1 Score on 116:1 Imbalanced Data
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
