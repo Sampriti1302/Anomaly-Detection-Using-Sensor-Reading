@@ -124,24 +124,9 @@ anomaly-detection-sensor/
 ├── notebooks/
 │   └── anaverse_anomaly_detection.ipynb  # Complete analysis & modeling
 │
-├── src/
-│   ├── feature_engineering.py     # Feature creation functions
-│   ├── model_training.py          # Model training pipeline
-│   └── evaluation.py              # Evaluation metrics & visualization
-│
-├── models/
-│   ├── xgboost_model.pkl          # Best model (F1: 0.79)
-│   └── scaler.pkl                 # StandardScaler
-│
-├── visualizations/
-│   ├── target_distribution.png
-│   ├── outlier_analysis.png
-│   ├── feature_importance.png
-│   └── model_comparison.png
-│
 ├── requirements.txt               # Dependencies
-├── README.md                      # This file
-└── LICENSE                        # MIT License
+│
+└── README.md                      # This fil#
 ```
 
 ---
